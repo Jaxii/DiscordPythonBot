@@ -1,9 +1,25 @@
 
 import discord
 
-def main():
-    for i in range(0 ,10):
-        print(i)
 
-if __name__ == '__main__':
-    main()
+
+
+
+
+
+#note to self: pie
+''' this is a multiline comment
+
+it looks nice
+yee
+
+    o      |   __   |
+      \_ O |  |__|  |
+   ____/ \ |___WW___|
+   __/   /     ||
+               ||
+               ||
+_______________||________________
+get dunked on
+
+'''
